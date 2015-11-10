@@ -1,0 +1,16 @@
+C:\Users\Александр\Desktop\HomeWork\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Александр\Desktop\HomeWork\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Александр\Desktop\HomeWork\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Александр\Desktop\HomeWork\ConsoleApplication\bin\Debug\Domain.dll
+C:\Users\Александр\Desktop\HomeWork\ConsoleApplication\bin\Debug\Domain.pdb
+C:\Users\Александр\Desktop\HomeWork\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\HomeWork\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Александр\Desktop\HomeWork\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Александр\Desktop\Save it\Programming\HomeWorkDOP\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Александр\Desktop\Save it\Programming\HomeWorkDOP\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Александр\Desktop\Save it\Programming\HomeWorkDOP\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Александр\Desktop\Save it\Programming\HomeWorkDOP\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Save it\Programming\HomeWorkDOP\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Александр\Desktop\Save it\Programming\HomeWorkDOP\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Александр\Desktop\Save it\Programming\HomeWorkDOP\ConsoleApplication\bin\Debug\Domain.dll
+C:\Users\Александр\Desktop\Save it\Programming\HomeWorkDOP\ConsoleApplication\bin\Debug\Domain.pdb
